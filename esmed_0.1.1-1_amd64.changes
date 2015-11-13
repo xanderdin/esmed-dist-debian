@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 13 Nov 2015 07:35:52 -0000
+Source: esmed
+Binary: esmed
+Architecture: source all
+Version: 0.1.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: Alexander Pravdin <aledin@mail.ru>
+Changed-By: Alexander Pravdin <aledin@mail.ru>
+Description:
+ esmed      - SMPP ESME daemon (esmed)
+Changes:
+ esmed (0.1.1-1) unstable; urgency=low
+ .
+   * Initial release
+Checksums-Sha1:
+ 3fbef36df3a5329cd7c3043ab559aafc0bc76c8a 1644 esmed_0.1.1-1.dsc
+ 18e181a8e3ba928ef42a0222535f8d4b11d9c835 21750 esmed_0.1.1.orig.tar.gz
+ c06c8a5bb9e7b7decc5ef407c9312fc9b33cde76 2960 esmed_0.1.1-1.debian.tar.xz
+ 8384304e88ad1d876cc90f614fa06434352d3a09 14718 esmed_0.1.1-1_all.deb
+Checksums-Sha256:
+ 0f25aeb29385fd70cc615ad044eff36f7ad0e36ef26e2a715b6e550470f49dde 1644 esmed_0.1.1-1.dsc
+ 1fc0d648c8f4f57f33086410dc6ff7b87a1a24102138c0f416270696366c71f7 21750 esmed_0.1.1.orig.tar.gz
+ 3aa7144870ba226856c10d605f551c525f8024e6ca7071e51f8f5ed14cb2ab11 2960 esmed_0.1.1-1.debian.tar.xz
+ b017dc826aa0cec1b089a4a8a3310ecdfeb40fc21cf75c0fdafc8f3fba9a6faa 14718 esmed_0.1.1-1_all.deb
+Files:
+ 55f352b89739c356c2ffdfbead9c054d 1644 net extra esmed_0.1.1-1.dsc
+ 5322bde128c3eca953f77da31900ae37 21750 net extra esmed_0.1.1.orig.tar.gz
+ c3c42e3f2d1c42d1cc523e9ccc17fc89 2960 net extra esmed_0.1.1-1.debian.tar.xz
+ a6cf517a2bc756474911108c9ed18e46 14718 net extra esmed_0.1.1-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJWRYhQAAoJEBsrqc7YIVDouCoQAIWkAJTKN68eUt7uBVL1fiSP
+T9McQwFPRHoix5qzKK4EsBpQSZdfh97tm3IELFNttTg2UJoomWRPYvdtNkyJoiiV
+Eom+t1JYLMBPoAacARvxDcIwHr4XY74LecjCdxB2lOi5dfYq0G3wJcgqqpy5crRP
+PuJqHW8ipnfpNufVMBSDY0Tcg9FiDi7LE/ov7Vx2efI5dfC2kqqgcx0mVIh81HuD
+EGcQhjrm4lRyuQjubYcmP09q+lzN1iDctrHuaJ+5ikizBBrDlZ/rS2eEUlTnsLEE
+AFiDlsMppu7v/rQ0mXZMB811odq/ySqEtFWWvhRgs2So1bBi4BQpMVHffeqa60wH
+tLS+9kaZECTv+hYEZDaERUliUOQQY8HS2Esbf1vWIyYTaBK+ZYEWmdU3M0XWbZpn
+fYj+jqWFeqZ88rKfzW69NSQuwfjCfxRpc5ICoiwLoHKD0kAqbZQ1htN29+L5o4G5
+e+BzyaZ/6wGuad5PJcuPR0e2IyuGCQ4PJIt6SvoQfF8W2X6cYnXjUB8bnQW2rGGV
+dfW67v9ARsua+/INi/zl1D1qiA30EtqA1d7JRNDDFvJ6VIKm48PWrZFa4IFhM78e
+/LzVR8QOydfeDdUuqQnkpqrk2cObNUpE98BUluHHzYlw2Z25B7VBBYHgbtM6hyT1
+oQku3Z5ba/MTxgSGCVVl
+=ne/D
+-----END PGP SIGNATURE-----
